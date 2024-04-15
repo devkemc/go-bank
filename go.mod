@@ -1,4 +1,4 @@
-module go_bank
+module github.com/devkemc/go-bank
 
 go 1.22
 

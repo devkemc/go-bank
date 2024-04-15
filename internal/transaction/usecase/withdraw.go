@@ -1,6 +1,6 @@
 package usecase
 
-import "go_bank/internal/transaction/repository"
+import "github.com/devkemc/go-bank/internal/transaction/repository"
 
 type Withdraw struct {
 	transactionRepository repository.TransactionRepository

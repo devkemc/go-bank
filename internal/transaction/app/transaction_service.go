@@ -1,7 +1,7 @@
 package app
 
 import (
-	"go_bank/internal/transaction/usecase"
+	"github.com/devkemc/go-bank/internal/transaction/usecase"
 )
 
 type TransactionService struct {

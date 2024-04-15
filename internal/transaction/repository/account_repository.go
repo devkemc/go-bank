@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"go_bank/internal/transaction/domain"
+	"github.com/devkemc/go-bank/internal/transaction/domain"
 )
 
 type AccountRepository interface {

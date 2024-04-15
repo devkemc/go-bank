@@ -1,7 +1,7 @@
 package domain_test
 
 import (
-	"go_bank/internal/transaction/domain"
+	"github.com/devkemc/go-bank/internal/transaction/domain"
 	"testing"
 )
 
